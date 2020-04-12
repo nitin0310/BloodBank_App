@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600768828853",
+    "firebase_url": "https://bloodroid-4c98d.firebaseio.com",
+    "project_id": "bloodroid-4c98d",
+    "storage_bucket": "bloodroid-4c98d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600768828853:android:9d87bc30958d6dbd22f5fc",
+        "android_client_info": {
+          "package_name": "com.example.bloodroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600768828853-3040c1dkcqeqs3jehajf78sbvnnmnukv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBROb6KGSjTOSq1Cq4qQJ3krezEquMdK5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600768828853-3040c1dkcqeqs3jehajf78sbvnnmnukv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
